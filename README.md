@@ -1,8 +1,8 @@
 # REACT JS (CONTEXT API)
 
-## A small sidebar-modal built using REACT JS using global context API 
+A sidebar-modal built using React JS using context API
 
 ### Reference
-[John Smilga](https://github.com/john-smilga)
+[React Projects by John Smilga](https://www.youtube.com/watch?v=a_7Z7C_JCyo&t=591s)
 
  
