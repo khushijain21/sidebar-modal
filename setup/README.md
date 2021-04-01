@@ -1,2 +1,4 @@
-##Sidebar Modal using Context API to avoid prop drilling
+##Sidebar Modal
+
+###Application of Context API to avoid prop drilling
 
